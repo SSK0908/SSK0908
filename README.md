@@ -18,15 +18,11 @@ Here are some ideas to get you started:
 
 ## - 🤔 I currently know
 
-#### Half-baked Python, Matlab, Java and C, and a very useless language, Jack very well. I can also entertain high school kids with my Scratch and Scribble skills
+#### Python, Matlab, Java, Javascript and C, and a very useless language, Jack very well. I can also entertain high school kids with my Scratch and Scribble skills. I'm also proficient with ML and DL libraries like Scikit-Learn, Tensorflow, Stable Baselines3 and other basic python libraries like Numpy, Matplotlib and Seaborn. I'm also know web development libraries and tools like React and TailwindCSS
 
 ## - 🌱 I wish to learn
 
-#### Scikit-Learn, Tensorflow, Pytorch, Javascript and also Android Development
-
-## - 😄 I'm looking for help with
-
-#### Pretty much everything tbh but hopefully in a few months I'll be capable of helping someone who will be in the same place as me right now
+#### Pytorch, GOlang, Kotlin, NLP and RL
 
 ## - 👯 I’m looking to collaborate on
 
